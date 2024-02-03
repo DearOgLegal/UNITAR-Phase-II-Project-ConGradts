@@ -18,4 +18,4 @@ Track Your Progress: Monitor your learning journey with detailed progress report
 Beyond Courses: Gain real-world experience through supervised remote work opportunities, earning actual wages to invest in your future.
 ConGradts is more than just a learning platform; it's a community of support and empowerment. Join us and take the first step towards a brighter future, equipped with the knowledge, skills, and confidence to succeed.
 
-To view the demo of this product, click on this [link](https://congradts.mobirisesite.com/) 
+To view the demo of this product, click on this [link](file:///private/var/folders/t1/4qnc0jg9195ckkv4r3ps64zc0000gn/T/Mobirise/20240203_221923/index.html)
